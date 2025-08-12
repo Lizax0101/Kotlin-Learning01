@@ -38,7 +38,7 @@ Esse repositório é parte da minha preparação para atuar como **Desenvolvedor
 
 ## Como acompanhar
 
-Fique à vontade para explorar os exercícios, acompanhar minha evolução ou sugerir desafios.  
+Fique à vontade para explorar os exercícios
 
 
 
