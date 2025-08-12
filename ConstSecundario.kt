@@ -16,7 +16,7 @@ fun main(){
 
     println("${f0.nome}, ${f0.preco}")
     println("${f1.nome}, ${f1.preco}")
-    println(f2.nome) //acessando a propriedade da classe atraves da instancia do obj
+    println(f2.nome)
 
 }
 
