@@ -3,7 +3,7 @@ package AssuntosKT.RECE
 class Pedido(val cliente: String = "Cliente Desconhecido") {//parametro padrão
 
     constructor(prato: String, temperatura: Int) : this() {
-        println("Pedido só comida: $prato em temperatura:$temperatura°C")
+        println("Pedido: $prato em temperatura:$temperatura°C")
     }
 
     constructor(prato: String, bebida: String) : this() {
