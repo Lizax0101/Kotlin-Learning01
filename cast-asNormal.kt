@@ -22,7 +22,7 @@ fun main() {
         val fantasma = instanciaFantasma as Fantasma
         println("Resultado: Cast correto, aparece o nome: ${fantasma.nome}")
     } catch (e: Exception) {
-        println("Resultado: Agora quebrou, mostra a excepcion: ${e.message} ")
+        println("Resultado: Agora quebrou, mostra a exception: ${e.message} ")
     }
 
     if(instanciaFantasma is Fantasma){
@@ -30,6 +30,7 @@ fun main() {
     }
 
 }
+
 
 
 
